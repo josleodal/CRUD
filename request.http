@@ -1,0 +1,19 @@
+###
+GET http://localhost:3000/usuarios/Blanka
+
+
+
+###
+DELETE http://localhost:3000/usuarios/maricarmen
+
+###
+PUT http://localhost:3000/usuarios/Blanka
+
+
+usuarioModificado = {
+    
+"edad": 80,
+"nombre":"Blanka",
+"lugarProcedencia":"Polonia"
+
+}
